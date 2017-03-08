@@ -1,6 +1,6 @@
 {
   "name": "chadeus",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "ChadCrenshaw.com front-end utility functionality",
   "main": "index.js",
   "dependencies": {
