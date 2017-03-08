@@ -1,0 +1,23 @@
+{
+  "name": "chadeus",
+  "version": "1.0.0",
+  "description": "ChadCrenshaw.com front-end utility functionality",
+  "main": "index.js",
+  "dependencies": {
+    "less": "^2.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chadcrenshaw/chadcrenshaw.com.git"
+  },
+  "author": "Chad Crenshaw <thechad@chadcrenshaw.com> (http://chadcrenshaw.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chadcrenshaw/chadcrenshaw.com/issues"
+  },
+  "homepage": "https://github.com/chadcrenshaw/chadcrenshaw.com#readme"
+}
